@@ -11,7 +11,7 @@
     align="right"
     width="260"
     alt="Shimarin"
-    src="./assets/mf-heavy.gif" />
+    src="./assets/hola.gif" />
 
   <h2>
     <picture
