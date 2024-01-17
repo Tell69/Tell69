@@ -58,6 +58,5 @@
         src="https://img.shields.io/badge/alerxses-22092C?style=flat-square&logo=x"
         alt="twitter" />
     
-      </div>
 </div>
        
