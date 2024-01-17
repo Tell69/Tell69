@@ -57,18 +57,6 @@
       <img
         src="https://img.shields.io/badge/alerxses-22092C?style=flat-square&logo=x"
         alt="twitter" />
-    </a>
     
-        src="https://img.shields.io/badge/aleroses-black?style=social&logo=linkedin"
-        t="linkedin" />
-    </a>
-    <a
-      href="https://github.com/aleroses"
-      target="_blank">
-      <img
-        src="https://img.shields.io/badge/aleroses-black?style=flat-square&logo=github"
-        t="github" />
-    </a>
     
-  </div>
-</div>
+       
