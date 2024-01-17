@@ -38,7 +38,7 @@
     <img src="./assets/html.gif"  width="50px" />
     <img src="./assets/css.gif" width="80px" />
     <img src="./assets/c++.gif" width="100px" />
-    <img src="./assets/react.gif" width="50px" />
+    <img src="./assets/php.gif" width="60px" />
   </div>
 
 <h2>
