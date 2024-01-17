@@ -9,7 +9,7 @@
 
 <img
     align="right"
-    width="260"
+    width="500"
     alt="Shimarin"
     src="./assets/hola.gif" />
 
