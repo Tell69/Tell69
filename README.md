@@ -30,7 +30,7 @@
 
   <h2>
     <picture
-      ><img src="./assets/spidere.gif"  width="25px"
+      ><img src="./assets/gid.gif"  width="25px"
     /></picture>
     / Current skills /
   </h2>
