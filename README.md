@@ -52,7 +52,7 @@
 
 <div align="left">
     <a
-      href="https://twitter.com/alerxses"
+      href=""
       target="_blank">
       <img
         src="https://img.shields.io/badge/alerxses-22092C?style=flat-square&logo=x"
