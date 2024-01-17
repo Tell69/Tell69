@@ -15,7 +15,7 @@
 
   <h2>
     <picture
-      ><img src="./assets/miles.gif" width="25px"
+      ><img src="./assets/miles.gif" width="50px"
     /></picture>
     / About me /
   </h2>
@@ -30,7 +30,7 @@
 
   <h2>
     <picture
-      ><img src="./assets/gid.gif"  width="25px"
+      ><img src="./assets/gid.gif"  width="50px"
     /></picture>
     / Current skills /
   </h2>
@@ -46,7 +46,7 @@
   <picture
     ><img
       src="./assets/morales.gif"
-      width="25px"
+      width="50px"
   /></picture>
   / How to reach me /
 </h2>
