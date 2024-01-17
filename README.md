@@ -30,7 +30,7 @@
 
   <h2>
     <picture
-      ><img src="./assets/skills.gif" width="25px"
+      ><img src="./assets/spider.gif" width="25px"
     /></picture>
     / Current skills /
   </h2>
@@ -45,7 +45,7 @@
 <h2>
   <picture
     ><img
-      src="./assets/hollor_knight3.gif"
+      src="./assets/morales.gif"
       width="25px"
   /></picture>
   / How to reach me /
