@@ -21,11 +21,10 @@
   </h2>
 
   <ul>
-    <li>💻 I'm a Frontend Developer.</li>
-    <li>🚀 I'm an Industrial Manager.</li>
-    <li>👨‍👩‍👧‍👧 I like working in a team.</li>
-    <li>🤘🏽🎸 I like classic rock.</li>
-    <li>☕ I love coffee.</li>
+    <li>💻 I'm a Student Programation.</li>
+    <li>🚀 I'm a Study in ISTPET.</li>
+    <li>👨‍👩‍👧‍👧 I like the tecnology.</li>
+    <li>🤘🏽🎸 I like tool music.</li>
   </ul>
 
   <h2>
